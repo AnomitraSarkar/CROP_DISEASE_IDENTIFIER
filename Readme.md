@@ -1,5 +1,7 @@
-Dataset link: https://drive.google.com/drive/folders/1ZblD8pZXEfCIDr9M1sWmMHvIEvc0qL4p?usp=drive_link
+### Dataset link
+https://drive.google.com/drive/folders/1ZblD8pZXEfCIDr9M1sWmMHvIEvc0qL4p?usp=drive_link
 
+### Description
 Used the Plant Village Kaggle Repository for the dataset
 
 The model was trained using CNN via TensorFlow and Keras
@@ -17,6 +19,7 @@ Use the file "main_py.ipynb" file on github
 by typing tocolab in the repo link on chrome,
 where the initial github is mentioned.
 
+### Notebook
 <<https://githubtocolab.com/AnomitraSarkar/CROP_DISEASE_IDENTIFIER>>
 
 upload the model "potatoes.h5" in the colab and execute the 
